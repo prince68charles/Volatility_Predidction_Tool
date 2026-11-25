@@ -1,0 +1,1 @@
+This is a program that will use stock prices, math and stats, to provide a highly accurate prediction on a stocks volatiltity.s
